@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://katha-chowdhury-portfolio.netlify.app/](https://katha-chowdhury-portfolio.netlify.app/)
-
 - 📫 How to reach me **kothachowdhury.123456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
