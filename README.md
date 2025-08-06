@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Katha Chowdhury</h1>
-<h3 align="center">A Passionate Full Stack Developer & UI Developer from Bangladesh</h3>
+<h3 align="center">💻 Passionate Full Stack Developer & UI Designer from Bangladesh <br> 
+🌐 Specializing in .NET, Angular, JavaScript, and SQL   <br> 
+🚀 Building scalable, user-friendly applications with clean code
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kathachy2212&label=Profile%20views&color=0e75b6&style=flat" alt="kathachy2212" />
