@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katha Chowdhury</h1>
-<h3 align="center">A Passionate Full Stack Developer & UX Enthusiast from Bangladesh</h3>
+<h3 align="center">A Passionate Full Stack Developer & UI Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kathachy2212&label=Profile%20views&color=0e75b6&style=flat" alt="kathachy2212" />
